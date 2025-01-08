@@ -56,9 +56,7 @@ That being said, there are some very narrow and very specific use cases for AI a
 
 3. Ask Gemini to give you videos that explain Java variables.
 
-4. Reflect on your experience.
-- Were the explanations and resources useful?
-- What resources should you check FIRST, before you start asking AI?
+4. Reflect on your experience. Were the explanations and resources useful? What resources should you check FIRST, before you start asking AI?
 
 
 ## Final Reflection
