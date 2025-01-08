@@ -1,40 +1,30 @@
 ![CS121 Banner](images/CS121-BANNER.svg)
-
-**NOTE: Before beginning the lab, please remember to [open the workspace](images/open-lab-workspace.png) after cloning this repository in VSCode.**  
-
-# Module 1 Activity 1.1 - Exploring Artificial Intelligence
-
-## Purpose & Concepts
-
-The purpose of this activity is to explore how Exploring Artificial
-Intelligence (AI) can and cannot help you.  
-
-## Problem Description
-
-AI is a *tool*, and like all tools, you must know how to apply the
-tool properly.  Remember the Law of the Hammer, as stated by Abraham
-Maslow: "it is tempting, if the only tool you have is a hammer, to
-treat everything as if it were a nail." [The Psychology of Science: A
-Reconnaissance](https://en.wikipedia.org/wiki/Law_of_the_instrument#cite_note-maslow66-3)
+# Module 1 - Welcome to Computer Science
+The purpose of this guided experimentation activity is to explore how Artificial Intelligence (AI) can and cannot help you.  AI is a *tool*, and like all tools, you must know how to apply the tool properly.  Remember the Law of the Hammer, as stated by Abraham Maslow: "it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." [The Psychology of Science: A Reconnaissance](https://en.wikipedia.org/wiki/Law_of_the_instrument#cite_note-maslow66-3)
 
 AI is NOT the magical, solves-all-problems tool that companies want
 you to think it is.  We'll explore why.
 
+It is important to keep detailed observation in your coding journal as you work through the experiments below. These observations will be useful to you as you complete the labs and you will be allowed to reference them on open book / open note quizzes.  
 
-## TODO
-### Part 1: Explore AI Output
+***You are not required to turn in your observations.***
 
-BSU officially allows the use of select AI tools (see [Guideance on
-Use and Applicable
-Policies](https://www.boisestate.edu/policy/generative-artificial-intelligence-ai-use-and-policies/)).
-Remember that AI tools may track, store, and use any input you put
-into it.  Remember that your class materials are copyrighted and you
-are not permitted to freely distributed class material.
+## Getting Started
+To get started on this activity, please clone this repository into your development environment  
+[Clone Code Examples Walkthrough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fb47aa0-7147-4c1f-bf60-ae31017cd6bc&start=0)
 
-1. Let's explore one of the approved tools, [Google
-Gemini](https://www.boisestate.edu/oit/google-gemini/).  Follow the
-instructions on the page linked to open Gemini. Open REFLECTION.md to
-record your answers.
+Steps to Clone Examples:
+1. Copy the URL for this repo by clicking the green "Code" button above, select HTTPS then click the copy icon.
+2. Open VSCode, click the Source Control icon then click Clone Repository.
+3. Paste the repo URL into the "Provide repository URL" field and press Enter.
+4. Browse to the location in your development environment where you want to store the repostory and click Select Repository Location.
+5. When prompted, Open the repository then **[Open the workspace](images/open-examples-workspace.png)**.
+
+## Part 1: Explore AI Output
+
+Boise State officially allows the use of select AI tools (see [Guideance on Use and Applicable Policies](https://www.boisestate.edu/policy/generative-artificial-intelligence-ai-use-and-policies/)). Remember that AI tools may track, store, and use any input you put into it. Remember that your class materials are copyrighted and you are not permitted to freely distributed class material.
+
+1. Let's explore one of the approved tools, [Google Gemini](https://www.boisestate.edu/oit/google-gemini/).  Follow the instructions on the page linked to open Gemini. Open REFLECTION.md to record your answers.
 
 2. Ask Gemini for a cinnamon roll recipe. Answer the questions in
    REFLECTION.md about this recipe.
