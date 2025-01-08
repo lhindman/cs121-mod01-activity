@@ -22,51 +22,44 @@ Steps to Clone Examples:
 
 ## Part 1: Explore AI Output
 
-Boise State officially allows the use of select AI tools (see [Guideance on Use and Applicable Policies](https://www.boisestate.edu/policy/generative-artificial-intelligence-ai-use-and-policies/)). Remember that AI tools may track, store, and use any input you put into it. Remember that your class materials are copyrighted and you are not permitted to freely distributed class material.
+Boise State officially allows the use of select AI tools (see [Guideance on Use and Applicable Policies](https://www.boisestate.edu/policy/generative-artificial-intelligence-ai-use-and-policies/)). Remember that AI tools may track, store, and use any input you put into it. Remember that your class materials are copyrighted and you are not permitted to freely distributed class material. Let's explore one of the approved tools, [Google Gemini](https://www.boisestate.edu/oit/google-gemini/).  Follow the instructions on the page linked to open Gemini.  
 
-1. Let's explore one of the approved tools, [Google Gemini](https://www.boisestate.edu/oit/google-gemini/).  Follow the instructions on the page linked to open Gemini. Open REFLECTION.md to record your answers.
+Complete the following tasks and record your observations and answers to the questions in your coding journal.
 
-2. Ask Gemini for a cinnamon roll recipe. Answer the questions in
-   REFLECTION.md about this recipe.
+1. Ask Gemini for a cinnamon roll recipe.
+- Did you get a recipe?
+- Does it make sense?
+- Does it contain the correct ingredients?
+- Does it have sensible spices?
 
-3. Ask Gemini for a cinnamon roll recipe that contains
-   tomatoes. Answer the questions in REFLECTION.md about this recipe.
-
-4. Reflect on your experience.  Unless you have previous experience
-   baking, you probably couldn't just look at the recipe and figure
-   out if it would be good.  Note that even though tomatoes have no
-   business being in cinnamon rolls, Gemini *would* give you what you
-   asked.  What does this tell you about the limitations of AI? How
-   much should you trust the output of an AI?
-
-   Write your 2 - 4 sentence reflection in REFLECTION.md.
-
-### Part 2: Code Exploration
-
-1. Ask Gemini to create a solution in Java to solve the following
-   problem.  You need to write a program for a local orchard.  They
-   need something that will help them when selling trees.  They need
-   to be able to enter what tree was sold, track sales, and analyze
-   the sales.  Answer the questions in REFLECTION.md about the solution.
+2. Ask Gemini for a cinnamon roll recipe that contains tomatoes. 
+- Do you get a recipe?
+- Do you think this would taste good?
+- Do a websearch for the same recipe.
+- Do any of those recipes match what Gemini gave you? I did not find cinnamon rolls, but found other rolls that did not contain sugar.
+  
+3. Reflect on your experience.  Unless you have previous experience baking, you probably couldn't just look at the recipe and figure out if it would be good.  Note that even though tomatoes have no business being in cinnamon rolls, Gemini *would* give you what you asked.  What does this tell you about the limitations of AI? How much should you trust the output of an AI?
 
 
-2. Now take that solution and modify it to sell berries instead of
-   trees. Answer the questions in REFLECTION.md about the solution.
+## Part 2: Code Exploration
 
-### Part 3: But I Want To Use AI!
+1. Ask Gemini to create a solution in Java to solve the following problem.  You need to write a program for a local orchard.  They need something that will help them when selling trees.  They need to be able to enter what tree was sold, track sales, and analyze the sales.
+- What does your program actually do? The problem description was somewhat vague, so there is room for interpretation. How do you know what your program does?
+- Is the solution correct? How do you know? What did you do to test it?
+- Is the solution correctly structured?  That is, does it follow goodvdesign principles? How easy is it to modify? Does it follow thevcorrect coding conventions?
 
-Yea, but don't. Not yet.  Remember that programming is a skill that
-needs to be practiced to be developed.  Using AI at this point in your
-journey is like using pre-recorded CDs while you pretend to play the
-guitar; it's not you playing the guitar and you won't ever learn to
-play this way.  You need to develop YOUR code writing and reading
-skills first.
+2. Now take that solution and modify it to sell berries instead of trees.
+- What was modified? Does it still work? How do you know?
+- To modify this program, if it was well constructed, you should have only needed to swap out a single class. Likely by the end of this class but definitely by the end of CS 221, you should be able to recognize that.  Modifying and validating the functionality of this program should take less than an hour - all you need to do is implement the new class and test it.
 
-That being said, there are some very narrow and very specific use
-cases for AI at this point. You should NOT use it to solve your
-homework, but it can be used as a tutor of sorts, if you can't make it
-to the Kount Learning Center.  It's not as good as the TA's in Kount,
-but it's a starting point.
+3. Reflect on your experience. This activity should have shown you that in order to get a good solution from the AI, you both have to know **what** you're asking for and be able to analyze what you get.  The only way to be able to do these things is to have a fundamental understanding the problem. 
+
+
+## Part 3: But I Want To Use AI!
+
+Yea, but don't. Not yet.  Remember that programming is a skill that needs to be practiced to be developed.  Using AI at this point in your journey is like using pre-recorded CDs while you pretend to play the guitar; it's not you playing the guitar and you won't ever learn to play this way.  You need to develop YOUR code writing and reading skills first.
+
+That being said, there are some very narrow and very specific use cases for AI at this point. You should NOT use it to solve your homework, but it can be used as a tutor of sorts, if you can't make it to the Kount Learning Center.  It's not as good as the TA's in Kount, but it's a starting point.
 
 1. Ask Gemini to explain Java variables to you.
 
@@ -74,38 +67,17 @@ but it's a starting point.
 
 3. Ask Gemini to give you videos that explain Java variables.
 
-
-Answer the questions in REFLECTION.md.
-
-
-
+4. Reflect on your experience.
+- Were the explanations and resources useful?
+- What resources should you check FIRST, before you start asking AI?
 
 
-### Final Reflection
+## Final Reflection
 
-You probably felt kind of lost during this exercise.  That's ok and
-that proves the point - AI is a tool, but you need to learn how to use
-the tool.  AI won't really help you in this class because you need to
-learn enough computer science first.
+You probably felt kind of lost during this exercise.  That's ok and that proves the point - AI is a tool, but you need to learn how to use
+the tool.  AI won't really help you in this class because you need to learn enough computer science first.
 
-You get what you ask for from an AI.  If you ask for nonsensical
-things, you'll get nonsensical things.  You need to learn what makes
-sense.  You can also get incorrect or incomplete solutions from the
-AI.  You need to know enough to know that it IS incorrect or
-incomplete and WHY it is incorrect or incomplete.  You then need to
-know enough to be able to fix it or complete it.
+You get what you ask for from an AI.  If you ask for nonsensical things, you'll get nonsensical things.  You need to learn what makes sense.  You can also get incorrect or incomplete solutions from the AI.  You need to know enough to know that it IS incorrect or incomplete and WHY it is incorrect or incomplete.  You then need to know enough to be able to fix it or complete it.
 
-Long story short, you do need to know these fundamental concepts.  You
-do need to know how to read and understand code.  You are not
-employable if you can't do more than the AI, and you can see how
-limited the AI really is.
+Long story short, you do need to know these fundamental concepts.  You do need to know how to read and understand code.  You are not employable if you can't do more than the AI, and you can see how limited the AI really is.
 
-
-## Finally
-1. Commit the changes to your local repository with a message 
-2. Push the changes from your local repository to the github classroom repository.
-
-# Markdown Resources
-Markdown is a notation that is used to format text documents.  It is widely used in Software Development shops around the world, which is why we're asking you to use it in your lab documentation.  
-
-Github provides a guide for getting started:  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
