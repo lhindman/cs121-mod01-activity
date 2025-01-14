@@ -35,7 +35,7 @@ Complete the following tasks and record your observations and answers to the que
 1. Ask Gemini to create a solution in Java to solve the following problem.  You need to write a program for a local orchard.  They need something that will help them when selling trees.  They need to be able to enter what tree was sold, track sales, and analyze the sales.
 - What does your program actually do? The problem description was somewhat vague, so there is room for interpretation. How do you know what your program does?
 - Is the solution correct? How do you know? What did you do to test it?
-- Is the solution correctly structured?  That is, does it follow good design principles? How easy is it to modify? Does it follow thevcorrect coding conventions?
+- Is the solution correctly structured?  That is, does it follow good design principles? How easy is it to modify? Does it follow the correct coding conventions?
 
 2. Now take that solution and modify it to sell berries instead of trees.
 - What was modified? Does it still work? How do you know?
